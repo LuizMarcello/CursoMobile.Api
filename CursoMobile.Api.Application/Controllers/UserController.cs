@@ -23,6 +23,7 @@ namespace CursoMobile.Api.Application.Controllers
 
         //Fazendo os "end-points", 03 para cada um dos métodos da interface "IServiceUser",
         //RecuperarTodos(Get),adicionar(Add) e deletar(delete):
+        //Um comentario a toa, testando o git
 
         //RecuperarTodos(Get)
         [HttpGet]
